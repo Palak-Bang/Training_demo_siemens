@@ -1,1 +1,4 @@
 first demo file
+created in git repository
+linux commands - mkdir cd
+
